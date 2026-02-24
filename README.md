@@ -563,8 +563,3 @@ Please see my [contributing.md](CONTRIBUTING.md).
 ## License
 
 [MIT](LICENSE)
-
-
----
-
-Maintained by @opensourceframework in the [monorepo](https://github.com/riceharvest/opensourceframework).
